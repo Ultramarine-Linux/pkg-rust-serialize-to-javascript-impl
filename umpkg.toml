@@ -1,6 +1,6 @@
-[serialize-to-javascript-impl]
+[rust-serialize-to-javascript-impl]
 spec = "serialize-to-javascript-impl.spec"
 build_script = ""
 build_method = "mock"
-owner = "your koji username"
+owner = "cappy"
 git_repo = "https://github.com/ultramarine-linux/pkg-rust-serialize-to-javascript-impl"
